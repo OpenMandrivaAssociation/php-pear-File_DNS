@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	0.0.8
-Release:	%mkrel 12
+Release:	%mkrel 13
 Summary:	Manipulate RFC1033-style DNS Zonefiles
 License:	PHP License
 Group:		Development/PHP
