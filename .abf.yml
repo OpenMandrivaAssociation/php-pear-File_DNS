@@ -1,2 +1,4 @@
+removed_sources:
+  File_DNS-0.0.8.tar.bz2: e48d558c3527ead23c212c6daf8dfc6b87c45db7
 sources:
-  "File_DNS-0.0.8.tar.bz2": e48d558c3527ead23c212c6daf8dfc6b87c45db7
+  File_DNS-0.1.0.tgz: 03aebe2d94e8902b09a9544f045830df70f0126c
