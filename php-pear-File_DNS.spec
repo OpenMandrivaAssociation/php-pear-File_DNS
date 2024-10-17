@@ -8,7 +8,7 @@ Release:	2
 Summary:	Manipulate RFC1033-style DNS Zonefiles
 License:	PHP License
 Group:		Development/PHP
-URL:		http://pear.php.net/package/File_DNS/
+URL:		https://pear.php.net/package/File_DNS/
 Source0:	http://download.pear.php.net/package/File_DNS-%{version}.tgz
 Requires(post): php-pear
 Requires(preun): php-pear
